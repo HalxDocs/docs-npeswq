@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-lgch3n.rechurch.co.nz/sitemap.xml
